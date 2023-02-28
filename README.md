@@ -9,7 +9,10 @@ This repository contains analytical scripts for our recent paper on assessing me
 The Data Collection folder contains the scripts used to collect the menu data from JustEat in 2021. Please note that we are unable to share the Points-of-Interests data and scraped Just Eat menu due to the nature of our data.
 
 ## Machine Learning Experiments
-The Machine Learning Experiments folder contains the scripts for the multiple experiments conducted to find the best-performing algorithm to predict menu healthiness of out-of-home food outlets.
+The Machine Learning Experiments folder contains the scripts for the multiple experiments conducted to find the best-performing algorithm to predict menu healthiness of out-of-home food outlets. The detailed scripts will be made publicly available once our manuscript has been accepted. 
+
+## Analysis Code 
+The Analysis Code folder contains the analysis code used in the paper. 
 
 ## Usage
 To use the scripts in this repository, clone or download the repository to your local machine.
