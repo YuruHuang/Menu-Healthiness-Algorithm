@@ -106,7 +106,7 @@ dessert_keywords = c('dessert','mousse','sundae','panna cotta',
                      'bounty bar','kit kat','creme egg','mintolai','double decker',
                      'crunchie bar','snickers','wispa','toblerone','turkish delight',
                      'bitz bar','sweets','popcorn.*sweet','candies','candy','ice lollies',
-                     'mintoes','nutella','halva','mashmallow','fruit winder','fudge',
+                     'mintoes','nutella','halva','marshmallow','fruit winder','fudge',
                      'magaj','bear yoyo','profiterole','victoria sponge','fruit pie',
                      'cream slice','nougat','haagen dazs','churros','cookie','milkshake'
 )
