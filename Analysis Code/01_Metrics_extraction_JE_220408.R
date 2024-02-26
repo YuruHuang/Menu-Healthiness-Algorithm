@@ -114,7 +114,7 @@ dessert_keywords = c('dessert','mousse','sundae','panna cotta',
 dessert_exclude = c('fish cake','crab cake','fishcake','rice cake','ricecake',
                     'potato cake')
 dessert_menusection_keywords = c('dessert','sweet','treats','ice cream','cake','sundaes','cookies',
-                                 'pudding','brownies','dougnut','churros','confectionery','waffle','milkshake')
+                                 'pudding','brownies','doughnut','churros','confectionery','waffle','milkshake')
 
 # extract number of desserts available in each outlet 
 extract_desserts = function(dat){
